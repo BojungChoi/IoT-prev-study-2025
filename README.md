@@ -82,6 +82,7 @@
 4. 연산자
 5. 흐름제어
     1. if문
+        - 단일 if, if - else, if - elif - else
     2. for문 - 프로그래밍 꽃
     3. while문 - for문과 동일
 6. 함수

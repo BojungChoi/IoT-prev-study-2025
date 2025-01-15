@@ -19,8 +19,8 @@ def multiple(a, b):
     # return # 아무것도 반환할 게 없으면 리턴은 생략함 
 
 def divide(a, b):
-    zzzzzz = a / b
-    return zzzzzz
+    result = a / b
+    return result
 
 x = 11
 y = 22
