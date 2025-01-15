@@ -13,7 +13,7 @@ def minus(a, b):
     result = a - b
     return result
 
-def multiple(a, b):
+def multi(a, b):
     result = a * b
     print('곱은 -> ', result)
     # return # 아무것도 반환할 게 없으면 리턴은 생략함 
@@ -37,7 +37,7 @@ print('차의 결과는', minus(x, y))
 
 x = 30
 y = 10
-z = multiple(x, y)
+z = multi(x, y)
 print(z)
 
 x = 100
